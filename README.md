@@ -11,6 +11,8 @@ PS: I am a inDesigner noob, layout will improve... slowly... pole pole...
 
 ---
 ##### History:
+2017/01/02 - Re-added diagrams titles.
+
 2016/12/30 - Updated to SDK version 1607
 
 2016/05/12 - Added DXGI tearing feature update.
