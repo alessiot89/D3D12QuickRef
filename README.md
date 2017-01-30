@@ -11,7 +11,7 @@ PS: I am a inDesigner noob, layout will improve... slowly... pole pole...
 
 ---
 ##### History:
-2017/01/03 - Added difference Windows SDK target releases.
+2017/01/03 - Added different Windows SDK target releases.
 
 2017/01/02 - Re-added diagrams titles.
 
